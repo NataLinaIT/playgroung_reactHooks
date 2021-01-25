@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/playgroung_reactHooks/static/css/main.3f14a404.chunk.css",
+    "main.js": "/playgroung_reactHooks/static/js/main.9a8845ca.chunk.js",
+    "main.js.map": "/playgroung_reactHooks/static/js/main.9a8845ca.chunk.js.map",
+    "runtime-main.js": "/playgroung_reactHooks/static/js/runtime-main.f9885fb1.js",
+    "runtime-main.js.map": "/playgroung_reactHooks/static/js/runtime-main.f9885fb1.js.map",
+    "static/js/2.0d3d2d58.chunk.js": "/playgroung_reactHooks/static/js/2.0d3d2d58.chunk.js",
+    "static/js/2.0d3d2d58.chunk.js.map": "/playgroung_reactHooks/static/js/2.0d3d2d58.chunk.js.map",
+    "static/js/3.ae46d4ba.chunk.js": "/playgroung_reactHooks/static/js/3.ae46d4ba.chunk.js",
+    "static/js/3.ae46d4ba.chunk.js.map": "/playgroung_reactHooks/static/js/3.ae46d4ba.chunk.js.map",
+    "index.html": "/playgroung_reactHooks/index.html",
+    "static/css/main.3f14a404.chunk.css.map": "/playgroung_reactHooks/static/css/main.3f14a404.chunk.css.map",
+    "static/js/2.0d3d2d58.chunk.js.LICENSE.txt": "/playgroung_reactHooks/static/js/2.0d3d2d58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9885fb1.js",
+    "static/js/2.0d3d2d58.chunk.js",
+    "static/css/main.3f14a404.chunk.css",
+    "static/js/main.9a8845ca.chunk.js"
+  ]
+}

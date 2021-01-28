@@ -2,7 +2,7 @@
 
 ### Technologies used:
 * React.js
-* hppks: useEffect, useState, useMemo, useCallback
+* hooks: useEffect, useState, useMemo, useCallback
 * canvas 
 
 
